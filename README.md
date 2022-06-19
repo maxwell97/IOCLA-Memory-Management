@@ -7,7 +7,7 @@
 ### Descriere:
 
 Functionalitatea temei:
-** int add_last(void **arr, int *len, data_structure *data)
+* int add_last(void **arr, int *len, data_structure *data)
 - functia verifica daca exista vreun element in vector si aloca / realoca memorie in functie de conditie.
 - se parcurge vectorul si se ajunge la sfarsitul datelor, apoi se aloca de la sfarsit spatiu pentru a stoca un nou element.
 - se copiaza datele pe rand, se elibereaza structura din care s-au extras datele si se incrementeaza lungimea vectorului.
